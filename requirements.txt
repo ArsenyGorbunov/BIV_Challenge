@@ -1,0 +1,9 @@
+loguru==0.7.2
+catboost==1.2.7
+pandas==2.2.3
+nltk==3.9.1
+numpy==1.23.5
+natasha==1.6.0
+tqdm==4.66.5
+scikit-learn==1.5.2
+pymorphy2==0.9.1
